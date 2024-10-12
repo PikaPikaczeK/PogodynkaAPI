@@ -2,8 +2,7 @@
   "name": "my-app",
   "version": "1.0.0",
   "scripts": {
-    "start": "node serwer.js", // Dodaj tę linijkę, aby uruchomić serwer
-    "build": "yarn build" // lub inna komenda build, jeśli jest potrzebna
+    "start": "node serwer.js"
   },
   "dependencies": {
     "@google-cloud/translate": "^8.2.0",
